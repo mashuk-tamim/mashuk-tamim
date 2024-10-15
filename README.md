@@ -1,3 +1,5 @@
+<img align="center" alt="banner" width="1200" height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 <h1 align="center">Hi 👋, I'm Mashuk Tamim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -7,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashuk-tamim" alt="mashuk-tamim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mashuktamim" target="blank"><img src="https://img.shields.io/twitter/follow/mashuktamim?logo=twitter&style=for-the-badge" alt="mashuktamim" /></a> </p>
 
 - 🔭 I’m currently working on [Organization Management App](https://github.com/mashuk-tamim/organization-management-app)
 
@@ -16,7 +17,7 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **tamimmashuk328@gmail.com**
-
+<p align=""> <a href="https://www.linkedin.com/in/mashuk-tamim/" target="blank"><img src="https://img.shields.io/linkedIn/follow/mashuktamim?logo=linkedIn&style=for-the-badge" alt="mashuktamim" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mashuktamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashuktamim" height="30" width="40" /></a>
